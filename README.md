@@ -1,4 +1,4 @@
-# VideoTapeDigitizing
+# Ultimate video tape digitizing guideline for dummies
 
 This is the ultimate guide for digitizing video tapes like (S-)VHS, Video8, Hi8, Betamax and similar! This will be the last guide you will ever read! It will cover some of the most common solutions, from the worst method 0 (that should never ever be done and is only included as bad-reference) to the best but most complex with some variants in between.
 
