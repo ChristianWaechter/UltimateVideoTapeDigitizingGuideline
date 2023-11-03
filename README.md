@@ -25,14 +25,14 @@ https://gleitz.info/forum/index.php?thread/47572-tutorial-hochwertiges-digitalis
 
 
 
-## Method 2a - Digitizing with a serious video grabber 
+## Method 2a - Digitizing with a serious video grabber with integrated TBC
 
 
 ## Method 2b - Digitizing with a serious video tape player/recorder with integrated TBC
 
 If you do not know whether you should go with this or the previos method, go with the previos method. Even though it might be hard and expensive to find a serious video grabber, it might be even harder to find a serious video tape player/recorder with an integrated TBC that is actually working fine!
 
-## Method 4 - vhs decode
+## Method 3 - vhs decode
 
 https://github.com/oyvindln/vhs-decode
 
